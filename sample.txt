@@ -5,5 +5,6 @@ Git の練習をするための文章です。
 
 楽しい Git ライフを！！
 
-test test test
+test test
+test
 
