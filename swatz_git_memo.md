@@ -13,6 +13,8 @@
 *git branch
 *git checkout
  - -bをつけると作成も
+*gitk
 
 # 参考
 * [サルなのでサルから学ぶ](http://www.backlog.jp/git-guide/stepup/stepup2_3.html)
+* [コマンド一覧](http://sourceforge.jp/magazine/09/03/16/0831212)
